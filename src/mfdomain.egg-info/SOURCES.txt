@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/mfdomain/__init__.py
+src/mfdomain/print_my_name.py
+src/mfdomain/py.typed
+src/mfdomain.egg-info/PKG-INFO
+src/mfdomain.egg-info/SOURCES.txt
+src/mfdomain.egg-info/dependency_links.txt
+src/mfdomain.egg-info/not-zip-safe
+src/mfdomain.egg-info/requires.txt
+src/mfdomain.egg-info/top_level.txt
