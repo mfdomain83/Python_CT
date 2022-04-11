@@ -1,0 +1,5 @@
+.coverage
+.tox/dist/mfdomain-0.0.0.tar.gz
+src/mfdomain/__pycache__/print_my_name.cpython-310.pyc
+tests/__pycache__/test_print_my_name.cpython-310-pytest-6.2.5.pyc
+.vscode/settings.json
